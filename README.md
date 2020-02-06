@@ -1,0 +1,2 @@
+# favicons
+Created with CodeSandbox
